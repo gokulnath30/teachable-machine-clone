@@ -1,6 +1,6 @@
 # Teachable machine clone 
 
-![alt text](http://url/to/img.png)
+![App](https://iili.io/H5Fu9Ve.png)
 
 ## Run Application 
     python app.py
